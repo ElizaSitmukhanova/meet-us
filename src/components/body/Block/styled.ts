@@ -21,7 +21,6 @@ color: #8B4513;
 export const DiscContainer = styled.div`
 font-weight: 350;
 font-size: 20px;
- 
 font-style: normal;
 color: #8B4513;
      
@@ -34,10 +33,11 @@ font-style: normal;
 color: #8B4513;
 flex-direction: column;
 
+
 `;
-export const DateContainer = styled.div`
+/* export const DateContainer = styled.div`
 font-family: cursive;
-`;
+`; */
 
 export const ImageContainer = styled.div`
 margin-left: 15px;
